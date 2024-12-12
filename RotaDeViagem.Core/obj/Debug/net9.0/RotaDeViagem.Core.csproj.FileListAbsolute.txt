@@ -1,0 +1,11 @@
+F:\2024\RotaDeViagem\RotaDeViagem.Core\bin\Debug\net9.0\RotaDeViagem.Core.deps.json
+F:\2024\RotaDeViagem\RotaDeViagem.Core\bin\Debug\net9.0\RotaDeViagem.Core.dll
+F:\2024\RotaDeViagem\RotaDeViagem.Core\bin\Debug\net9.0\RotaDeViagem.Core.pdb
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.AssemblyInfoInputs.cache
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.AssemblyInfo.cs
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.csproj.CoreCompileInputs.cache
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.dll
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\refint\RotaDeViagem.Core.dll
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\RotaDeViagem.Core.pdb
+F:\2024\RotaDeViagem\RotaDeViagem.Core\obj\Debug\net9.0\ref\RotaDeViagem.Core.dll

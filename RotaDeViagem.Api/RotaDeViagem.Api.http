@@ -1,0 +1,17 @@
+@RotaDeViagem.Api_HostAddress = http://localhost:5240
+
+### Testar rota mais barata ###
+GET {{RotaDeViagem.Api_HostAddress}}/api/routes/cheapest-route?origin=GRU&destination=CDG
+Accept: application/json
+
+###
+
+### Adicionar nova rota ###
+POST {{RotaDeViagem.Api_HostAddress}}/api/routes/add-route
+Content-Type: application/json
+
+{
+  "Origin": "XYZ",
+  "Destination": "ABC",
+  "Cost": 50
+}

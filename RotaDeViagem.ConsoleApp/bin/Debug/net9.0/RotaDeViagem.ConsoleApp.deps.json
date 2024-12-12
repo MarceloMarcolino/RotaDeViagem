@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RotaDeViagem.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "RotaDeViagem.Core": "1.0.0"
+        },
+        "runtime": {
+          "RotaDeViagem.ConsoleApp.dll": {}
+        }
+      },
+      "RotaDeViagem.Core/1.0.0": {
+        "runtime": {
+          "RotaDeViagem.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RotaDeViagem.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RotaDeViagem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
